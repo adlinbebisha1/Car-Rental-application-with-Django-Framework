@@ -1,22 +1,22 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+T.J.ADLIN BEBISHA_4007_ACEW
 
 
 Project implemented by: 
 
 
-Name:
+Name: T.J.ADLIN BEBISHA
 
 
-ID:
+ID: au960221104007
 
 
-College name:
+College name: Arunachala College of Engineering for Women
     
 
 Login credentials: 
 
-username: 
+username: admin123
 
 
-Password: 
+Password: admin123
 
